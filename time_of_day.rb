@@ -11,7 +11,6 @@ elsif time >= 11 && time < 17
 else
   puts "Good Night!"
 end
-
 end
 
 time_of_day(18)
